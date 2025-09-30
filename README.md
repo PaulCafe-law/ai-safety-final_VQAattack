@@ -54,7 +54,7 @@ pip install torch torchvision pillow transformers nltk
 2. 執行：
 
 ```bash
-python vqattack.py
+python ai_safety_final.ipynb
 ```
 
 或在 Notebook 內直接執行 `__main__` 區塊。
